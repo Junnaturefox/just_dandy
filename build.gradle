@@ -79,10 +79,10 @@ dependencies {
     minecraft "net.minecraftforge:forge:${project.minecraft}-${project.forge}"
     implementation fg.deobf("com.teamabnormals:blueprint:${project.minecraft}-${project.blueprint}")
 
-    compileOnly fg.deobf("maven.modrinth:moonlight:vivHKObd")
-    compileOnly fg.deobf("maven.modrinth:supplementaries:roUQhhcO")
+    compileOnly fg.deobf("maven.modrinth:moonlight:pshgj8UJ")
+    compileOnly fg.deobf("maven.modrinth:supplementaries:KAx6eLAF")
     compileOnly fg.deobf("maven.modrinth:create:HNYrbfZZ")
-    compileOnly fg.deobf("maven.modrinth:world-of-wonder:ROod5t7t")
+    compileOnly fg.deobf("maven.modrinth:world-of-wonder:Y5pniIR4")
     compileOnly fg.deobf("maven.modrinth:terrablender:HI0iCUpi")
     compileOnly fg.deobf("maven.modrinth:breezy:QMv1AhS4")
     compileOnly fg.deobf("maven.modrinth:geckolib:vv4Q0406")

@@ -1,7 +1,7 @@
 package com.davigj.just_dandy.core.other;
 
 import codyhuh.worldofwonder.common.entity.DandeLionEntity;
-import codyhuh.worldofwonder.init.WonderItems;
+import codyhuh.worldofwonder.core.WonderItems;
 import com.davigj.just_dandy.core.JustDandy;
 import com.davigj.just_dandy.core.registry.JDBlocks;
 import com.teamabnormals.blueprint.core.util.NetworkUtil;

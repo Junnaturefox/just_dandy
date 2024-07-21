@@ -1,11 +1,10 @@
 package com.davigj.just_dandy.core.other;
 
 import codyhuh.worldofwonder.common.block.trees.DandelionFluffTree;
-import codyhuh.worldofwonder.init.WonderBlocks;
+import codyhuh.worldofwonder.core.WonderBlocks;
 import com.davigj.just_dandy.core.registry.JDBlocks;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.level.block.Block;
-import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.level.block.grower.AbstractTreeGrower;
 import net.minecraft.world.level.block.grower.AzaleaTreeGrower;
 import net.minecraftforge.fml.ModList;

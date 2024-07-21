@@ -1,7 +1,7 @@
 package com.davigj.just_dandy.common.util;
 
 import codyhuh.worldofwonder.common.block.DandelionFluffBlock;
-import codyhuh.worldofwonder.init.WonderBlocks;
+import codyhuh.worldofwonder.core.WonderBlocks;
 import com.davigj.just_dandy.common.block.FluffyDandelionBlock;
 import com.davigj.just_dandy.core.registry.JDParticleTypes;
 import net.minecraft.core.BlockPos;
